@@ -51,7 +51,7 @@ public class CajaControllerTest {
 
     /**
      * Solo pongo una vez el Test porque el ControllerAdvice es global
-     * asi que ocurrirá con todos los controladores actuales y futuros
+     * asi que ocurrirá con todos los controladores actuales y futuros.
      */
     @Test
     public void testFechaInvalida() throws Exception {
